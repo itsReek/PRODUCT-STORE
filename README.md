@@ -1,8 +1,7 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">PRODUCT STORE 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-About This Course:
+## 📌 About
+A **full-stack Product Store application** built with MERN stack and Chakra UI.
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 - 🔥 Build an API
