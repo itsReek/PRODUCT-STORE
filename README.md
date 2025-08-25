@@ -41,7 +41,7 @@ Product-Store/
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/product-store.git
+git clone https://github.com/itsReek/PRODUCT-STORE.git
 cd product-store
 
 2️⃣ Backend Setup
