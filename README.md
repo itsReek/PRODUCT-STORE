@@ -81,8 +81,5 @@ Frontend and Backend both in RENDER LIVE SERVER....
 📬 Contact
 
 👤 Your Name
-Linkedln link - https://www.linkedin.com/in/gaurav-ghosh-616b31296
 
-GitHub: yourusername
-
-LinkedIn: yourprofile
+LinkedIn:  https://www.linkedin.com/in/gaurav-ghosh-616b31296
