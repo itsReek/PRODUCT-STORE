@@ -27,4 +27,3 @@ Product Store is a full-stack web application built using the **MERN** stack (**
 
 ---
 
-### **📂 Project Structure**
