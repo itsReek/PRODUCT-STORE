@@ -72,13 +72,6 @@ npm install
 # Run the frontend app
 npm run dev
 
-
-Your app will be running on:
-
-Frontend → http://localhost:5173
-
-Backend → http://localhost:5000
-
 📸 Preview
 
 (Add screenshots or GIFs here to visually showcase your UI and features)
