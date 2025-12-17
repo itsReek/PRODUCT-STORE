@@ -86,4 +86,4 @@ This project is part of my learning and portfolio to demonstrate **real‑world 
 
 ---
 
-<p align="center">⭐ If you like this project, consider giving it a star!</p>
+
