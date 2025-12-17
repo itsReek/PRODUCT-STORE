@@ -1,110 +1,89 @@
-🛍️ Product Store
-📖 Overview
+<h1 align="center">🛒 Product Store (MERN Stack)</h1>
 
-Product Store is a modern full-stack e-commerce web application built using the MERN stack — MongoDB, Express.js, React.js, and Node.js — with Chakra UI for a sleek and responsive user interface.
-It demonstrates full-stack development skills, including API design, database management, and frontend development, providing a seamless online shopping experience.
+<p align="center">
+A modern full‑stack e‑commerce style product management application built using the MERN stack.
+</p>
 
-✨ Features
+## 👤 Maintainer
 
-✅ RESTful API built with Node.js and Express.js
+**Reek Ghosh**
+Full‑Stack Developer | MERN Stack
 
-✅ CRUD functionality for products: Create, Read, Update, Delete
+---
 
-✅ Interactive React frontend using Chakra UI components for a modern look
+## 📌 Project Overview
 
-✅ Fully responsive design for mobile and desktop devices
+Product Store is a responsive, scalable web application that demonstrates real‑world full‑stack development using **MongoDB, Express.js, React.js, and Node.js**. The project focuses on clean API design, modular architecture, and a modern UI using **Chakra UI**.
 
-✅ Error handling and input validation to ensure data integrity
+This project was originally based on a learning reference and has been **extended, maintained, and customized** by me with production‑ready practices.
 
-✅ Modular and scalable architecture for easy maintenance and future expansion
+---
 
-✅ Deployment-ready for production (frontend + backend)
+## 🛠 Tech Stack
 
-🛠️ Tech Stack
+- ⚛️ **Frontend:** React.js, Chakra UI
+- 🧠 **Backend:** Node.js, Express.js
+- 🗄 **Database:** MongoDB
+- 🌐 **API:** RESTful APIs
+- 🚀 **Deployment Ready** (Frontend + Backend)
 
-Frontend: React.js, Chakra UI, Vite
+---
 
-Backend: Node.js, Express.js, Mongoose
+## ✨ Features
 
-Database: MongoDB
+- ✅ RESTful API built with Node.js & Express.js
+- ✅ CRUD operations for products (Create, Read, Update, Delete)
+- ✅ Modern, responsive UI using Chakra UI
+- ✅ Proper error handling and validation
+- ✅ Modular and scalable project structure
+- ✅ Production‑ready build setup
 
-Version Control: Git & GitHub
+---
 
-🚀 Project Highlights
+## ⚙️ Environment Setup
 
-Follows latest MERN best practices
+Create a `.env` file in the root directory:
 
-Clean folder structure separating frontend and backend logic
+```env
+MONGO_URI=your_mongo_uri
+PORT=5000
+```
 
-Supports product listing and management
+---
 
-Designed for reusability and scalability
+## ▶️ Run the App Locally
 
-📂 Project Structure
-Product-Store/
-│
-├── backend/
-│   ├── server.js
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   └── config/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── hooks/
-│   │   └── App.jsx
-│   └── vite.config.js
-│
-└── README.md
+Install dependencies:
 
-⚡ How to Run Locally
-# Clone the repository
-git clone https://github.com/your-username/product-store.git
-
-# Navigate into the project folder
-cd product-store
-
-# Install backend dependencies
-cd backend
+```bash
 npm install
+```
 
-# Start backend server
-npm run dev
+Build the frontend:
 
-# Install frontend dependencies
-cd ../frontend
-npm install
+```bash
+npm run build
+```
 
-# Start frontend app
-npm run dev
+Start the application:
 
-📸 Preview
+```bash
+npm run start
+```
 
-(Add screenshots or GIFs here to visually showcase your UI and features)
+---
 
-🧠 Future Enhancements
+## 👥 Credits
 
-🛒 Add shopping cart and checkout functionality
+- **Reek Ghosh** – Project Maintainer & Enhancements
+- **Burak** – Original Reference Contributor
 
-👤 Implement user authentication (JWT)
+---
 
-💳 Integrate payment gateway
+## 📌 Notes
 
-🗂️ Add product categories and filters
+This project is part of my learning and portfolio to demonstrate **real‑world MERN stack skills**, backend API development, and frontend integration.
 
-🤝 Contributing
+---
 
-Contributions are welcome! To enhance this project:
-
-Fork the repository
-
-Create a new branch (feature/your-feature-name)
-
-Commit your changes
-
-Push to your branch
-
-Open a Pull Request 🎉
+<p align="center">⭐ If you like this project, consider giving it a star!</p>
