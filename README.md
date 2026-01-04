@@ -15,7 +15,7 @@ Full‑Stack Developer | MERN Stack
 
 Product Store is a responsive, scalable web application that demonstrates real‑world full‑stack development using **MongoDB, Express.js, React.js, and Node.js**. The project focuses on clean API design, modular architecture, and a modern UI using **Chakra UI**.
 
-This project was originally based on a learning reference and has been **extended, maintained, and customized** by me with production‑ready practices.
+> ⚠️ **Note:** This project was initially inspired by a learning/reference implementation and has been **significantly extended, customized, and maintained by me**, including UI improvements, API integration, project structuring, and deployment readiness.
 
 ---
 
